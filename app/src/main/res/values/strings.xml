@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ravipandya_CENG319Lab1_Ex1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="life_cycle_methods">Life Cycle Methods Demonstration</string>
+    <string name="createai">AIActivity: onCreate executed</string>
+    <string name="createvr">VRActivity: onCreate executed</string>
+    <string name="createmain">Main Activity: onCreate executed</string>
+    <string name="onstart">onStart executed</string>
+    <string name="onstop">onStop executed</string>
+    <string name="ondestroy">onDestroy executed</string>
+
+</resources>
